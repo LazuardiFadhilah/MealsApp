@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:meals/main.dart';
 
 import '../models/category.dart';
 
